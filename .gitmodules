@@ -1,6 +1,8 @@
 [submodule "recipes/netgen-conda"]
 	path = recipes/netgen-conda
 	url = https://github.com/L-Nafaryus/netgen-conda
+	branch = master
 [submodule "recipes/openfoam-conda"]
 	path = recipes/openfoam-conda
 	url = https://github.com/L-Nafaryus/openfoam-conda
+	branch = master
